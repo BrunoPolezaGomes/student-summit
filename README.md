@@ -12,6 +12,7 @@ Repositório da demo apresentada no Student Summit com **[Azure Static Web Apps]
 * **[GCC](https://gcc.gnu.org/install/)**
 * **[Jekyll](https://jekyllrb.com/docs/installation/)**
 
+
 ## 💻 Instalação local
 
 Siga as instruções abaixo para configuração completa:
